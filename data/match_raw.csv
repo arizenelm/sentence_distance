@@ -1,0 +1,233 @@
+;eng;rus;best_match;ind_right
+1;AGRI10: Arable land and permanent grassland;AGRI10: Пахотные земли и постоянные пастбища;Посевные площади сельскохозяйственных культур;1
+2;AGRI11: Crop production from arable land;AGRI11: Растениеводство с пахотных земель;Производство основных видов  продукции в натуральном выражении;1
+3;AGRI12: Crop yield from harvested area;AGRI12: Урожайность с убранной площади;урожайность сельскохозяйственных культур (в расчете на убранную площадь);1
+4;OEKO01: Organic farming;OEKO01: Органическое земледелие;внесено сельскохозяйственными организациями органических удобрений на 1 га посева;1
+5;FISH11: Fishing, annual catches;FISH11: Рыболовство, годовой улов;темпы роста (снижения) объемов производства рыбы и продуктов рыбных переработанных и консервированных;1
+6;FISH12: Fishing, annual catches;FISH12: Рыболовство, годовой улов;;
+7;FISH13: Aquaculture, production;FISH13: Аквакультура, производство;производство (выращивание) товарной рыбы и других объектов товарного рыбоводства (аквакультуры);1
+8;FISH14: Fishing fleet;FISH14: Рыболовный флот;;
+9;FORE07: Production of wood, 1000 cubic metres or 1000 tonnes;FORE07: Производство древесины, 1000 м3 или 1000 тонн;Производство основных видов  продукции в натуральном выражении;1
+10;FORE08: Forest fellings and increment;FORE08: Рубки леса и прирост;Объем заготовленной древесины;1
+11;ENTP01: Structural statistics on enterprises;ENTP01: Структурная статистика предприятий;Количество предприятий и организаций;1
+12;ENTP03: New enterprise creations, index (2013Q1=100);ENTP03: Создание новых предприятий, индекс (1 кв. 2013 г. = 100);;
+13;TOUR02: Hotel beds;TOUR02: Кровати для гостиниц;число мест в коллективных средствах размещения;1
+14;TOUR03: Guest nights;TOUR03: Гостевые ночи;число ночевок в коллективных средствах размещения;1
+15;TRSP01: Registered motor vehicles;TRSP01: Зарегистрированные автомобили;Наличие автомобильного транспорта;1
+16;CULT01: Libraries and volumes;CULT01: Библиотеки и тома;Выдано экземпляров из библиотечного фонда библиотек Минкультуры России;1
+17;CULT04: Cinemas;CULT04: Кинотеатры;;
+18;CULT05: Cinema film premieres;CULT05: Кинопремьеры;;
+19;CULT15: Theatres;CULT15: Театры;количество театров Минкультуры России;1
+20;CULT16: Museums;КУЛЬТ16: Музеи;число музеев Минкультуры России;1
+21;CULT17: Books published;CULT17: Изданы книги;количество вновь вышедших книжных изданий;1
+22;CULT20: General government expenditure on culture;CULT20: Общие государственные расходы на культуру;;
+23;CULT23: Cultural employment;CULT23: Культурная занятость;;
+24;CHIL05: Childlessness by the age of 45;Бездетность к 45 годам;;
+25;CHIL06: Parents age at birth of first child;CHIL06: Возраст родителей при рождении первого ребенка;;
+26;POPU03: Population 1 January;POPU03: Население на 1 января;численность постоянного населения на 1 января;1
+27;POPU04: Marriages and divorces;POPU04: Браки и разводы;Число браков за год;1
+28;CHIL01: Live births;CHIL01: Живорождения;Число зарегистрированных родившихся ;1
+29;CHIL02: Fertility rates;CHIL02: Показатели рождаемости;суммарный коэффициент рождаемости;1
+30;HEAL15: Total abortion rate and number of induced abortions per 1000 women;HEAL15: Общий коэффициент абортов и количество искусственных абортов на 1000 женщин.;число прерываний беременности;1
+31;HEAL16: Number of induced abortions;HEAL16: Количество искусственных абортов;число прерываний беременности;1
+32;MIGR01: Immigration;MIGR01: Иммиграция;Число прибывших;1
+33;MIGR02: Emigration;МИГР02: Эмиграция;Число выбывших;1
+34;MIGR03: Net migration;MIGR03: Чистая миграция;миграционный прирост;1
+35;MIGR04: Asylum applicants and first instance positive decisions on applications;MIGR04: Просители убежища и положительные решения первой инстанции по заявлениям;;
+36;MIGR05: Asylum applicants considered to be unaccompanied minors;MIGR05: Просители убежища считаются несовершеннолетними без сопровождения;;
+37;MIGR41: Migrated people from one Nordic country to another country of residence;MIGR41: Люди, мигрировавшие из одной скандинавской страны в другую страну проживания;;
+38;MIGR42: Migrated people from one Nordic country to another;MIGR42: Миграция людей из одной скандинавской страны в другую;;
+39;MIGR43: Migrated people from one Nordic country to another;MIGR43: Миграция людей из одной скандинавской страны в другую;;
+40;MIGR44: Migrated people from one Nordic country to another;MIGR44: Миграция людей из одной скандинавской страны в другую;;
+41;DEAT01: Deaths;DEAT01: Смерти;число зарегистрированных умерших;1
+42;DEAT04: Death rates;DEAT04: Смертность;смертность от всех причин, случаев на 1000 населения;1
+43;POPU07: Population changes;POPU07: Изменения населения;;
+44;POPU10: Population growth - mean population (total);POPU10: Прирост населения - среднее население (всего);Численность постоянного населения в среднем за год;1
+45;POPU06: Population projections;POPU06: Прогнозы численности населения;;
+46;CITI01: Population 1 January;CITI01: Население на 1 января;;
+47;CITI02: Population 1 January;CITI02: Население на 1 января;;
+48;POPU01: Population 1 January;POPU01: Население на 1 января;;
+49;POPU02: Mean population;POPU02: Средняя численность населения;среднегодовая численность населения;1
+50;POPU05: Capital area population;POPU05: Население столицы;;
+51;POPU08: Historical population;POPU08: Историческое население;;
+52;POPU09: Population;POPU09: Население;Доля городского населения в общей численности населения на 1 января;1
+53;KEY01: Economic key-figures for the Nordic countries;KEY01: Ключевые экономические показатели для стран Северной Европы;;
+54;FODI01: Foreign direct investment in percent of GDP;FODI01: Прямые иностранные инвестиции в процентах от ВВП;доля прямых иностранных инвестиций в российской экономике к ввп;1
+55;NAAC01: National accounts, supply and demand, million euro;NAAC01: Национальные счета, спрос и предложение, млн евро;;
+56;NAAC02: Real gross domestic product annual growth;NAAC02: Годовой рост реального валового внутреннего продукта;Индекс физического объема валового регионального продукта на душу населения;1
+57;NAAC04: Gross domestic product in PPS/euro;NAAC04: Валовой внутренний продукт в PPS/евро.;валовой внутренний продукт в рыночных ценах в соответствии с методологией снс 1993 с частичными отклонениями;1
+58;NAAC05: Gross value added (ESA2010);NAAC05: Валовая добавленная стоимость (ESA2010);валовая добавленная стоимость в основных ценах в соответствии с методологией снс 1993 с частичными отклонениями;1
+59;NAAC08: Employment by activity;NAAC08: Занятость по видам деятельности;Среднегодовая численность занятых в экономике;1
+60;NAAC11: Final consumption expenditure of households in million euro;NAAC11: Расходы домашних хозяйств на конечное потребление в млн евро;расходы на конечное потребление домашних хозяйств;1
+61;EDUC03: Number of students graduated;EDUC03: Количество выпускников;Численность студентов в государственных и муниципальных образовательных учреждениях, реализующих программы среднего профессионального образования;1
+62;EDUC06: Early leavers from education aged 18-24 (percent of age group);EDUC06: Досрочно бросившие школу в возрасте 18–24 лет (в процентах от возрастной группы);;
+63;EDUC09: Graduated students at tertiary level aged 15-74;EDUC09: Выпускники высших учебных заведений в возрасте от 15 до 74 лет.;;
+64;EDUC20: Participation rate in education and training (last 4 weeks) among adults;EDUC20: Уровень участия в образовании и обучении (последние 4 недели) среди взрослых;;
+65;EDUC07: Financial support for students (euro per month);EDUC07: Финансовая поддержка студентов (евро в месяц);;
+66;EDUC11: Population by educational attainment level;EDUC11: Население по уровню образования;;
+67;EDUC41: Educational attainment achieved in another Nordic country;EDUC41: Уровень образования, полученный в другой скандинавской стране;;
+68;EDUC42: Educational attainment achieved in another Nordic country;EDUC42: Уровень образования, полученный в другой скандинавской стране;;
+69;EDUC43: Educational attainment achieved in another Nordic country;EDUC43: Уровень образования, полученный в другой скандинавской стране;;
+70;PISA01: Student performance;PISA01: Успеваемость учащихся;;
+71;EDUC12: Number of students abroad;EDUC12: Количество студентов за границей;;
+72;EDUC13: Number of students abroad;EDUC13: Количество студентов за границей;;
+73;EDUC14: Number of students abroad;EDUC14: Количество студентов за границей;;
+74;EDUC15: Number of students abroad;EDUC15: Количество студентов за границей;;
+75;EUPD01: Turn-out in elections to the European Parliament;EUPD01: Явка на выборах в Европарламент;;
+76;EUPD03: Candidates elected to the European Parliament;EUPD03: Кандидаты избраны в Европейский парламент;;
+77;ELEC01: Turn-out at elections to the national parliaments;ELEC01: Явка на выборах в национальные парламенты;;
+78;ELEC03: Seats held by women in national parliaments;ELEC03: Места, занимаемые женщинами в национальных парламентах;доля мест, занимаемых женщинами в национальных парламентах (5.5.1);1
+79;BIOD01: Common farmland bird index;BIOD01: Общий индекс сельскохозяйственных птиц.;;
+80;ECOL01: Ecolabel licenses in the Nordic countries;ECOL01: Лицензии Ecolabel в странах Северной Европы;;
+81;EMIS11: Greenhouse gases, national emissions in 1000 tonnes CO2 equivalents;EMIS11: Парниковые газы, национальные выбросы в 1000 тонн эквивалента CO2;;
+82;EMIS12: Emission of air pollutants (tonne);EMIS12: Выбросы загрязняющих веществ в атмосферу (тонн);выбросы загрязняющих атмосферу веществ, отходящих от стационарных источников, за i полугодие;1
+83;EMIS13: Urban population exposure to particulate matter;EMIS13: Воздействие твердых частиц на городское население;среднегодовой уровень содержания мелких твердых частиц (рм2,5 и рм10) в атмосфере городов гусиноозерск, иркутск, казань, улан-удэ ;1
+84;EMIS14: Air emissions accounts;EMIS14: Счета выбросов в атмосферу;Выброшено в атмосферу загрязняющих веществ за отчетный год от сжигания топлива (для выработки электро- и теплоэнергии);1
+85;ENER05: Gross inland energy consumption;ENER05: Валовое внутреннее потребление энергии;Производство и потребление электроэнергии в Российской Федерации;1
+86;ENER06: Primary production of energy;ENER06: Первичное производство энергии;Производство и потребление электроэнергии в Российской Федерации;1
+87;ENER08: Share of energy from renewable sources;ENER08: Доля энергии из возобновляемых источников;доля производства электрической энергии генерирующими объектами, функционирующими на основе использования возобновляемых источников энергии, в совокупном объеме производства электрической энергии (без учета гидроэлектростанций установленной мощностью свыше 25 мвт);1
+88;ENER10: Final consumption of energy;ENER10: Конечное потребление энергии;;
+89;ENVAC01: Material flow accounts;ENVAC01: Счета движения материалов;;
+90;ENVAC02: Environmental, economic and social key data;ENVAC02: Ключевые экологические, экономические и социальные данные;;
+91;ENVAC03: Emission of greenhouse gases from production of goods and services;ENVAC03: Выбросы парниковых газов при производстве товаров и услуг;;
+92;ENVTX01: Environmental taxes as share of total tax revenues;ENVTX01: Экологические налоги как доля от общих налоговых поступлений;;
+93;FERT01: Consumption of fertilizers, 1000 tonnes pure fertilizer;FERT01: Расход удобрений, 1000 тонн чистого удобрения;внесено сельскохозяйственными организациями минеральных удобрений в пересчете на 100 % питательных веществ на 1 га посева;1
+94;FERT02: Sales of pesticides;FERT02: Продажа пестицидов;;
+95;WASTE01: Development in municipal waste generation and treatment;WASTE01: Развитие производства и обработки бытовых отходов;Вывезено твердых коммунальных отходов на объекты, используемые для обработки отходов (тысяча кубических метров, значение показателя за год);1
+96;TEMP01: Normal temperature in the Nordic countries;TEMP01: Нормальная температура в странах Северной Европы.;средняя месячная температура воздуха в июле (фактическая);1
+97;TEMP02: Climate in the Nordic countries;TEMP02: Климат в странах Северной Европы;;
+98;AREA02: Land use, square kilometres;AREA02: Землепользование, квадратные километры;;
+99;DENS01: Inhabitants per square kilometre as of 1 January;DENS01: Количество жителей на квадратный километр по состоянию на 1 января.;;
+100;SOCI02: Calculated absences due to sickness among employed people for at least one week,;SOCI02: Расчетное отсутствие по болезни среди работающих не менее одной недели,;;
+101;HEAL20: Limitations due to health problems, percent of age group;HEAL20: Ограничения из-за проблем со здоровьем, процент возрастной группы;;
+102;HEAL03: Number of deaths per 100 000 caused by malignant neoplasm;HEAL03: Число смертей на 100 000 населения, вызванных злокачественными новообразованиями.;смертность населения от злокачественных новообразований, на 100 тыс. населения;1
+103;HEAL04: Number of deaths per 100 000 caused by cardiovascular diseases;HEAL04: Количество смертей на 100 000 населения, вызванных сердечно-сосудистыми заболеваниями.;смертность от сердечно-сосудистых заболеваний, злокачественных новообразований, сахарного диабета, хронических респираторных заболеваний (3.4.1.);1
+104;HEAL05: Number of deaths per 100 000 by suicide;HEAL05: Количество смертей на 100 000 населения в результате самоубийств;смертность от самоубийств  (3.4.2.);1
+105;HEAL07: Number of deaths per 100 000 from accidents;HEAL07: Количество смертей на 100 000 человек в результате несчастных случаев;количество пострадавших со смертельным исходом в результате зарегистрированных несчастных случаев на производстве;1
+106;HEAL12: Health care expenditure;HEAL12: Расходы на здравоохранение;расходы средств обязательного медицинского страхования в расчете на 1 жителя вместо «расходы консолидированного бюджета субъекта российской федерации на здравоохранение (средства обязательного медицинского страхования) в расчете на 1 жителя»;1
+107;HEAL10: Employed health care personnel in health and social services per 100.000 inhabitants;HEAL10: Занятый медицинский персонал в сфере здравоохранения и социальных услуг на 100 000 жителей.;Численность врачей всех специальностей (физических лиц) в организациях, оказывающих медицинские услуги населению, на конец отчетного года;1
+108;HEAL17: Authorized hospital beds;HEAL17: Разрешенные больничные койки;обеспеченность больничными койками на 10 тыс. населения;1
+109;LIFE01: Life expectancy;LIFE01: Ожидаемая продолжительность жизни;ожидаемая продолжительность жизни при рождении (прогноз);1
+110;LIFE02: Gap in life expectancy between men and women (number of years);LIFE02: Разница в ожидаемой продолжительности жизни мужчин и женщин (количество лет);;
+111;HEAL14: Confirmed number of new cases of HIV/AIDS;HEAL14: Подтвержденное количество новых случаев ВИЧ/СПИДа;Число зарегистрированных случаев инфекционных заболеваний (человек);1
+112;HEAL18: Number of confirmed new cases of cancer (per 1 000 000), men,;HEAL18: Количество подтвержденных новых случаев рака (на 1 000 000), мужчин,;;
+113;HEAL19: Number of confirmed new cases of cancer (per 1 000 000), women,;HEAL19: Количество подтвержденных новых случаев рака (на 1 000 000), женщин,;;
+114;EDUC30: Foreign-born who are in secondary or tertiary education with two foreign parents;EDUC30: лица, родившиеся за границей, получившие среднее или высшее образование от двух родителей-иностранцев.;;
+115;EDUC31: Percent of pupils who have not completed secondary education (ISCED 3) within 5 or 6 years of enrollment;EDUC31: Процент учащихся, не завершивших среднее образование (МСКО 3) в течение 5 или 6 лет после зачисления.;;
+116;EDUC32: Educational attainment (per cent);EDUC32: Уровень образования (в процентах);;
+117;EDUC33: Educational attainment among foreign-born with two foreign-born parents;EDUC33: Уровень образования среди родившихся за границей двух родителей, родившихся за границей.;;
+118;EDUC34: Descendants who are in secondary or tertiary education;EDUC34: Потомки со средним или высшим образованием;;
+119;LABO30: Proportion of the population who does not work or study (per cent);LABO30: Доля населения, которое не работает и не учится (в процентах);доля молодежи (в возрасте от 15 до 24 лет), которая не учится, не работает и не приобретает профессиональных навыков (8.6.1);1
+120;WORK30: Employed (per cent);WORK30: Занятость (в процентах);уровень занятости;1
+121;WORK31: Foreign-born with two foreign-born parents (per cent);WORK31: Рожденные за границей с двумя родителями, родившимися за границей (в процентах);;
+122;WORK32: Employment rate among foreign-born with two foreign-born parents born outside Nordic/EU28/EES area;WORK32: Уровень занятости среди родившихся за границей двух родителей, родившихся за границей, родившихся за пределами стран Северной Европы/ЕС28/ЕЭС;;
+123;CITI03: Population;CITI03: Население;численность постоянного населения на 1 января;1
+124;MIGR06: Foreign-born with two foreign-born parents;MIGR06: Рожденный за границей с двумя родителями иностранного происхождения;;
+125;MIGR07: Non-Nordic immigrants;MIGR07: Иммигранты из нескандинавских стран;;
+126;FOTR44: Exports, 1000 euro,;FOTR44: Экспорт, 1000 евро,;Стоимость экспортных (импортных) операций по субъектам Российской Федерации;1
+127;FOTR46: Exports, 1000 euro,;FOTR46: Экспорт, 1000 евро,;;
+128;FOTR43: Imports, 1000 euro,;FOTR43: Импорт, 1000 евро,;Стоимость экспортных (импортных) операций по субъектам Российской Федерации;1
+129;FOTR45: Imports, 1000 euro,;FOTR45: Импорт, 1000 евро,;;
+130;FOTR49: Foreign trade, 1000 euro;FOTR49: Внешняя торговля, 1000 евро;;
+131;COMM10: Cross-border commuters by type of municipality;COMM10: Трансграничные пассажиры по типу муниципалитета;;
+132;COMM11: Cross-border commuters by type of municipality;COMM11: Трансграничные пассажиры по типу муниципалитета;;
+133;COMM12: Cross-border commuters by region of residence;COMM12: Трансграничные пассажиры по регионам проживания;;
+134;COMM13: Cross border commuters by status of employees;COMM13: Трансграничные пассажиры по статусу сотрудников;;
+135;LABO01: Employed aged 15-64 (1000 persons) per 1 January;LABO01: Работающие в возрасте 15-64 лет (1000 человек) на 1 января;численность занятых по полу и возрастным группам;1
+136;LABO03: Part-time employment;LABO03: Частичная занятость;занятые неполное время по причинам работы неполную рабочую неделю по полу и возрасту;1
+137;LABO04: Gender balance in listed companies;LABO04: Гендерный баланс в листинговых компаниях;;
+138;LABO06: Labour market segregation;LABO06: Сегрегация на рынке труда;;
+139;LABO07: Time (hours) spent on housework outside work;LABO07: Время (часы), потраченное на работу по дому помимо работы;доля времени, затрачиваемого на неоплачиваемые работу по дому и труд по уходу за членами домохозяйства и семьи (5.4.1);1
+140;LABO08: Board members of larger publicly listed companies;LABO08: члены советов директоров крупных публичных компаний;;
+141;LABO09: Proportion (percent) of employed who are employers;LABO09: Доля (в процентах) занятых, являющихся работодателями;;
+142;WORK02: Employment and unemployment;WORK02: Занятость и безработица;численность безработных граждан, зарегистрированных в государственных учреждениях службы занятости и получающих пособие по безработице на конец отчетного периода;1
+143;LABO05: Inactive population;LABO05: Неактивное население;;
+144;SOCI01: Number of activated, 1000s and per cent,;SOCI01: количество активированных, 1000 с и процент,;;
+145;CHIL03: Children in day-care;CHIL03: Дети в детском саду;численность детей, посещающих дошкольные образовательные учреждения;1
+146;SOCI04: Recipients of daily cash benefits at pregnancy, childbirth and adoption;SOCI04: Получатели ежедневных денежных пособий в связи с беременностью, родами и усыновлением;;
+147;HEAL01: Daily smokers (percent of age group);HEAL01: Ежедневные курильщики (в процентах от возрастной группы);;
+148;INCO03: Relative median income ratio 65+;INCO03: Относительный медианный коэффициент дохода 65+;;
+149;INCO04: Mean annual earnings in PPS/euro;INCO04: Среднегодовой заработок в PPS/евро;средний почасовой заработок женщин и мужчин в разбивке по группам занятий и возрасту (8.5.1);1
+150;INCO05: Gender pay gap (difference in percent);INCO05: Гендерный разрыв в оплате труда (разница в процентах);;
+151;INCO06: Gender pay gap (difference in percent);INCO06: Гендерный разрыв в оплате труда (разница в процентах);;
+152;RIOP02: Risk of poverty;RIOP02: Риск бедности;Доля населения с денежными доходами ниже величины прожиточного минимума, установленной в субъекте Российской Федерации;1
+153;GREE11: Greenhouse gas emissions;GREE11: Выбросы парниковых газов;Уловлено и обезврежено загрязняющих веществ;1
+154;GREE12: Consumption based greenhouse gas emissions;GREE12: Выбросы парниковых газов на основе потребления;;
+155;GREE13: Extent of Arctic ice;GREE13: Протяженность арктического льда;;
+156;GREE21: Renewable energy;GREE21: Возобновляемая энергия;мощность генерирующих объектов, функционирующих на основе использования возобновляемых источников энергии (без учета гидроэлектростанций установленной мощностью свыше 25 мвт);1
+157;GREE22: Energy intensity;GREE22: Энергоемкость;энергоемкость ввп;1
+158;GREE23: Greenhouse gas intensity;GREE23: Интенсивность выбросов парниковых газов;;
+159;GREE31: Material footprint;GREE31: Материальный след;;
+160;GREE32: Recycling of municipal waste;GREE32: Переработка бытовых отходов;;
+161;GREE33: Ecolabelling licences;GREE33: Экомаркировка лицензий;;
+162;GREE41: Protected land areas;GREE41: Охраняемые территории;;
+163;GREE42: Organic farming;GREE42: Органическое земледелие;;
+164;GREE43: Farmland birds;GREE43: Сельскохозяйственные птицы;поголовье скота и птицы  в хозяйствах всех категорий;1
+165;GREE51: Protected marine areas;GREE51: Охраняемые морские районы;;
+166;GREE52: Eutrophication of the Baltic Sea;GREE52: Эвтрофикация Балтийского моря;;
+167;GREE53: Fish stocks in the Arctic Ocean and the Barents Sea;GREE53: Рыбные запасы Северного Ледовитого океана и Баренцева моря;;
+168;COMP11: Tertiary educational attainment;COMP11: Высшее образование;;
+169;COMP12: Early school leavers;COMP12: Выпускники начальной школы;;
+170;COMP13: Adult participation in education and training;COMP13: Участие взрослых в образовании и обучении;;
+171;COMP21: Employment;COMP21: Занятость;уровень занятости;1
+172;COMP22: Employment in circular economy;COMP22: Занятость в экономике замкнутого цикла;;
+173;COMP23: Economic growth;COMP23: Экономический рост;Индексы физического объёма валового регионального продукта в основных ценах (ОКВЭД-2007);1
+174;COMP31: Expenditure on research and development;COMP31: Расходы на исследования и разработки;Внутренние текущие затраты на научные исследования и разработки;1
+175;COMP32: Green patents applications;COMP32: Зеленые патентные заявки;;
+176;COMP33: Digital Economy and Society Index (DESI);COMP33: Индекс цифровой экономики и общества (DESI);внутренние затраты на развитие цифровой экономики за счет всех источников;1
+177;COMP41: Transport in buses and trains;COMP41: Транспорт в автобусах и поездах;;
+178;COMP42: Pollution in urban areas;COMP42: Загрязнение в городских районах;;
+179;COMP51: Intra-Nordic immigration;COMP51: Внутрискандинавская иммиграция;;
+180;COMP52: Intra-Nordic foreign trade;COMP52: Внутрискандинавская внешняя торговля;;
+181;COMP53: Cross-border commuting;COMP53: Трансграничные поездки;;
+182;SOSU11: Life expectancy;SOSU11: Продолжительность жизни;ожидаемая продолжительность жизни при рождении (прогноз);1
+183;SOSU12: Self-rated health;SOSU12: Самооценка здоровья;оценка респондентами состояния своего здоровья;1
+184;SOSU13: Preventable and treatable mortality;SOSU13: Предотвратимая и излечимая смертность;;
+185;SOSU21: Gender-segregated labor market;SOSU21: Рынок труда с гендерной сегрегацией;;
+186;SOSU22: Fathers' share of parental leave;SOSU22: Доля отцов в отпуске по уходу за ребенком;;
+187;SOSU23: Women MPs;СОСУ23: Женщины-депутаты;;
+188;SOSU31: Economical inequality (Gini coefficient);SOSU31: Экономическое неравенство (коэффициент Джини);коэффициент джини (индекс концентрации доходов);1
+189;SOSU32: Risk of poverty and social exclusion;SOSU32: Риск бедности и социальной изоляции;уровень бедности;1
+190;SOSU33: Labour market integration of non-EU citizens;SOSU33: Интеграция на рынке труда граждан стран, не входящих в ЕС;;
+191;SOSU41: Social trust;SOSU41: Социальное доверие;;
+192;SOSU42: Voters turnout;СОСУ42: Явка избирателей;;
+193;SOSU43: Crime, violence or vandalism;SOSU43: Преступление, насилие или вандализм;;
+194;SOSU51: Culture-related trade between the Nordic countries;SOSU51: Культурная торговля между странами Северной Европы;;
+195;SOSU52: Public spending on culture;SOSU52: Государственные расходы на культуру;;
+196;SOSU53: Household spending on culture;SOSU53: Расходы домохозяйств на культуру;;
+197;PRIC01: National consumer price indices, index (2015=100),;PRIC01: Национальные индексы потребительских цен, индекс (2015 г. = 100),;индексы потребительских цен к среднегодовому значению 2010 г.;1
+198;PRIC02: Exchange rates;PRIC02: Обменные курсы;;
+199;PRIC03: Price level index in selected countries;PRIC03: Индекс уровня цен в отдельных странах;;
+200;PRIC05: House price indices (2015=100);PRIC05: Индексы цен на жилье (2015 г. = 100);индексы цен на рынке жилья;1
+201;PRIC06: Harmonised consumer price indices, index (2015=100),;PRIC06: Гармонизированные индексы потребительских цен, индекс (2015 г. = 100),;;
+202;SHAR01: Share price indices (2015=100);SHAR01: Индексы цен на акции (2015 г. = 100);;
+203;SHAR02: Interest rates, yields (% per annum) on 10-year central government bonds;SHAR02: Процентные ставки, доходность (% годовых) по 10-летним облигациям центрального правительства;;
+204;HEAL02: Sales of alcoholic drinks (litres of pure alcohol per person);HEAL02: Продажа алкогольных напитков (литров чистого спирта на человека);продажа алкогольных напитков в абсолютном алкоголе на душу населения;1
+205;OFDE02: Government aid to developing countries, million US$ and percent of GNI,;OFDE02: Государственная помощь развивающимся странам, млн долларов США и процент ВНД,;;
+206;PUBS14: General government surplus, deficit and debt;PUBS14: Профицит, дефицит и долг сектора государственного управления;Дефицит/профицит консолидированного бюджета субъекта РФ и территориального государственного внебюджетного фонда;1
+207;PUBS11: Total general government expenditure;PUBS11: Общие государственные расходы;;
+208;PUBS13: General government expenditure;PUBS13: Общие государственные расходы;;
+209;PUBS10: General government revenue;PUBS10: Общие государственные доходы;;
+210;PUBS12: Taxes and net taxes;PUBS12: Налоги и чистые налоги;Начисление и поступление налогов, сборов и иных обязательных платежей в бюджетную систему Российской Федерации;1
+211;PATE01: Number of patent applications;PATE01: Количество патентных заявок;коэффициент изобретательской активности (число отечественных патентных заявок на изобретения, поданных в россии в расчете на 10 тыс. человек населения);1
+212;PHDG02: Number of graduates at doctoral or equivalent level (ISCED2011);PHDG02: Количество выпускников докторантуры или эквивалентного уровня (ISCED2011);выпуск из докторантуры в отчетном году;1
+213;REDE01: Expenditure on Research and Development;REDE01: Расходы на исследования и разработки;Внутренние текущие затраты на научные исследования и разработки;1
+214;REDE04: R&D staff,;REDE04: Персонал отдела исследований и разработок,;;
+215;REDE11: Central government appropriations for R&D,;REDE11: Ассигнования центрального правительства на НИОКР,;;
+216;DIGI01: Interaction with public authorities through the Internet (percent);DIGI01: Взаимодействие с государственными органами через Интернет (в процентах);;
+217;INFO06: Internet and broadband access in households;INFO06: Интернет и широкополосный доступ в домохозяйствах;число домохозяйств, имеющих широкополосный доступ к сети «интернет»;1
+218;INFO07: Internet use (percent of indviduals);INFO07: Использование Интернета (в процентах);;
+219;INFO09: Telephone subscriptions;INFO09: Телефонные подписки;Количество абонентских станций (устройств), подключённых к сетям подвижной радиотелефонной связи в стандарте GSM;1
+220;INFO11: Text messages for mobile phones;INFO11: Текстовые сообщения для мобильных телефонов;;
+221;INFO13: Internet purchases;INFO13: Интернет-покупки;;
+222;INCO01: Mean equivalised net income in PPS/euro;INCO01: Средняя эквивалентная чистая прибыль в PPS/евро;Медианный среднедушевой доход;1
+223;INCO02: Equivalised median income in PPS/euro;INCO02: Эквивалентный средний доход в PPS/евро;медианный эквивалентный располагаемый денежный доход;1
+224;GINI01: Gini coefficient;GINI01: коэффициент Джини;коэффициент джини (индекс концентрации доходов);1
+225;RIOP01: Risk of poverty (percent of households);RIOP01: Риск бедности (в процентах домохозяйств);уровень бедности;1
+226;SOCI07: Total number of pensioners;SOCI07: Общее количество пенсионеров;общая численность пенсионеров;1
+227;SOCI10: Households drawing housing benefits at year-end,;SOCI10: Домохозяйства, получающие жилищные пособия на конец года,;доля семей, получающих жилищные субсидии на оплату жилого помещения и коммунальных услуг, в общем числе семей в субъекте российской федерации;1
+228;SOCI12: Number of individuals drawing financial social assistance, in total and in percent of the population at the time of calculation;SOCI12: Количество лиц, получающих финансовую социальную помощь, в целом и в процентах от населения на момент расчета;численность лиц, имеющих право на получение государственной социальной помощи в виде набора социальных услуг, состоящих на учете в системе пенсионного фонда российской федерации;1
+229;SOCI22: People aged 65+ living in institutions or service housing,;SOCI22: Люди в возрасте 65+, проживающие в учреждениях или служебных домах,;;
+230;SOCI27: Children and adolescents aged 0-17 years taken into care outside the home, per 1 000 in age group,;SOCI27: Дети и подростки в возрасте 0–17 лет, находящиеся на попечении вне дома, на 1000 человек в возрастной группе,;;
+231;SOEX01: Expenditure on cash benefits and services,;SOEX01: Расходы на денежные пособия и услуги,;;
+232;SOEX06: Financing of social expenditure (percent),;SOEX06: Финансирование социальных расходов (в процентах),;;
